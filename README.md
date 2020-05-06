@@ -1,3 +1,3 @@
-# Strapi application
+# This is the Nazareno Zanaga Dashboard
 
-A quick description of your strapi application
+Arcalus® 2020 
